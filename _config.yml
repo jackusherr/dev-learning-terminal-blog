@@ -1,15 +1,9 @@
-# Example Site settings
+title: "Dev Learning Terminal"
+description: "My blog tracking my first Git clone to full-stack hacker"
+author: "Jack Usherr"
 
-#google_analytics: UA-NNNNNNNN-N
-
-#header_pages:
-#  - index.md
-#  - about.md
-
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
-
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+style: dark
+listen_for_clients_preferred_style: false
 
 plugins:
   - jekyll-seo-tag
